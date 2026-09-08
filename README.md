@@ -1,74 +1,187 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2361DAFB&height=120&section=header"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:1F6FEB,100:7C3AED&text=Owais%20Raza&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Backend%20Generative%20AI%20Engineer&descAlignY=57&descSize=18" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Generative+AI+%E2%80%A2+RAG+%E2%80%A2+Multimodal+Retrieval;Python+%E2%80%A2+FastAPI+%E2%80%A2+Distributed+Systems;Building+Production+AI+Platforms" alt="Typing SVG" />
 </a>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!👋 </h1>
+<br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2361DAFB&size=35&center=true&vCenter=true&width=1000&lines=I'm+Raza;I'm+a+Full+Stack+Developer;Nice+to+Meet+Ya!!+ツ)
+<a href="https://www.linkedin.com/in/owaisraza1704/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:owaisraza1704@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/RazaNaqsh">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Chennai-India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-<div align="center">
-Currently taking flight in the world of coding and development & Aspiring to spread my wings even further. 
-
-*Hoping to thrive and learn a lot in this journey and... ***GO BEYOND***!!*
 </div>
 
-<!---
-RazaNaqsh/RazaNaqsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+## 👨‍💻 About Me
 
-<div style="display: inline_block">
-  <h3 align="center">Languages and Tools I Use:</h3>
-  <p align="center">
-   
-  <img alt="NEXT" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
- <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=2361DAFB" />
+I'm a **Backend-focused Generative AI Engineer** with **2 years of experience** building production AI platforms and distributed backend services.
 
- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="TailWindCSS" src="https://img.shields.io/badge/-tailwindcss-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    
-<img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=webpack&logoColor=white" />
-    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+My work focuses on the engineering layer behind reliable AI systems: **RAG, multimodal retrieval, agentic workflows, LLM inference, and scalable microservices**.
 
+~~~text
+Backend Engineering → Distributed Systems → Generative AI
+        → RAG → Agentic Workflows → Production AI Platforms
+~~~
 
+* 🧠 Building **agentic AI workflows** with structured LLM outputs
+* 🔎 Engineering **RAG and multimodal retrieval** systems
+* ⚡ Developing asynchronous services with **FastAPI, Celery, and Redis**
+* 🖥️ Deploying self-hosted LLM inference with **vLLM**
+* ☁️ Operating production platforms on **Azure** with Docker
+* 🏗️ Designing reliable **microservices and distributed backend systems**
 
-  </p>
-  </div>
-  <div align="center">
-   <a href="https://github.com/RazaNaqsh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RazaNaqsh&theme=react" />
+---
 
-  </div>
+## 🧠 AI Systems
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multimodal_Retrieval-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_Workflows-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Inference-059669?style=for-the-badge" />
+</p>
+
+RAG · Document Understanding · Multimodal Retrieval · Agentic Workflows · CrewAI · Structured LLM Outputs · Azure OpenAI · LLM Inference
+
+### ⚡ AI Infrastructure
+
+vLLM · Model Serving · Self-Hosted Inference · Offline LLM Deployment · GPU VM Deployment · LLM Platform Engineering
+
+---
+
+## ☕ Backend & Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,redis,docker" />
+</p>
+
+**Backend**
+
+Python · FastAPI · REST APIs · Async Programming · WebSockets · Microservices · Celery · Distributed Systems
+
+**Architecture**
+
+API Design · Asynchronous Processing · Worker Concurrency · Event-Driven Workflows · Service Routing · Scalable Backend Systems
+
+---
+
+## 🖥️ Product Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+Python · JavaScript · TypeScript
+
+---
+
+## 🛠️ DevOps & Engineering Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,nginx,git,linux" />
+</p>
+
+Azure · Docker · Docker Compose · NGINX · Git · Keycloak · PostgreSQL · pgvector · Redis
+
+---
+
+## 💼 Experience
+
+### Tata Consultancy Services Limited — System Engineer
+
+* **Aug 2024 – Present** · Chennai, India
+* Migrated CrewAI multi-agent execution from FastAPI BackgroundTasks to **Celery and Redis**, achieving zero server crashes and 100% downstream API success in 30–50 concurrent-request load tests.
+* Automated dynamic CrewAI agent creation by converting business documents into structured agent configurations through **RAG-based document understanding** and structured LLM outputs.
+* Architected a **multimodal RAG pipeline** combining vision retrieval with text-based retrieval, improving retrieval accuracy for complex data by approximately 30–50%.
+* Deployed offline, self-hosted LLM inference with **vLLM** for high-security and air-gapped client environments.
+* Operationalized a 20+ service microservice platform on **Azure VMs** using Docker, Docker Compose, NGINX, PostgreSQL, and GPU VMs.
+* Reduced data repository API latency from approximately 4–5 seconds to under 1 second through schema optimization, payload minimization, pagination, and WebSockets.
+
+---
+
+## 🔬 Currently Exploring
+
+<table>
+<tr>
+<td valign="top">
+
+### AI / ML
+
+* Generative AI applications
+* RAG systems
+* Document understanding
+* Multimodal retrieval
+* Structured LLM outputs
+* Agentic workflows
+
+</td>
+<td valign="top">
+
+### AI Infrastructure
+
+* LLM inference
+* vLLM model serving
+* Self-hosted deployment
+* GPU VM infrastructure
+* Asynchronous AI workloads
+* Production AI platforms
+
+</td>
+<td valign="top">
+
+### Backend Systems
+
+* Distributed systems
+* Microservices
+* Celery worker architecture
+* Redis-based processing
+* WebSockets
+* Azure deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Open To
+
+**Backend Generative AI Engineer** · **AI Engineer** · **Python / FastAPI Engineer** · **RAG Engineer** · **LLM Systems Engineer**
+
+I'm particularly interested in teams building **production AI platforms, agentic workflows, multimodal retrieval systems, LLM infrastructure, and distributed backend services**.
+
+---
 
 <div align="center">
-   <br>
-  <a href="#">
-    <img height="190rem" width="400rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RazaNaqsh&theme=react&hide_border=true"/>
-  </a>
-  </a>
-      <a href="https://github.com/RazaNaqsh">
-    <img height="190rem" width="400rem"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RazaNaqsh&theme=react" />
-  </a>
 
-  </div>
+### Build reliable AI platforms. Engineer beyond the model.
 
-<div align="center" >
-  <br>
-   <a href="#">
-    <img height="350rem"  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazaNaqsh&theme=react&hide_border=true"/>
-  </a>
-    <a href="https://app.daily.dev/RZN"><img src="https://api.daily.dev/devcards/b9e83afb9db347359683796f69e7df7a.png?r=ql9" width="300" alt="Raza's Dev Card"/></a>
+<br/>
 
-  </div>
-  
-  <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2361DAFB&height=120&section=footer"/>
+<a href="https://www.linkedin.com/in/owaisraza1704/">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:owaisraza1704@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Build-Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<br/><br/>
 
-You can reach out to me at  <a href="https://discordapp.com/users/598381761751285771" target="blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a> **Id: RaZa #4999**
+<i>Engineering production AI systems — from backend infrastructure to intelligent workflows.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,45:1F6FEB,100:7C3AED" width="100%" />
+
+</div>
